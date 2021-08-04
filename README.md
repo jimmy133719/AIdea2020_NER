@@ -18,3 +18,6 @@ python privacy_classification.py
 ```
 python second_retrieval.py 
 ```
+---------------------------------
+** Detail document **
+https://drive.google.com/file/d/1j997zzBYe2Vn5gWGjWC_614zQPWHb7RY/view?usp=sharing
